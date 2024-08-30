@@ -7,7 +7,7 @@ import TodoList from "./TodoList";
 function App() {
   return (
     <>
-      <LudoBoard />
+      <TodoList/>
     </>
   );
 }
